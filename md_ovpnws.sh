@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='139.162.153.145';
-USER='lipstel_vip';
-PASS='lipstel_mamun';
-DBNAME='lipstel_vip';
+USER='lipstelvpnvip';
+PASS='lipstelvpnvip';
+DBNAME='lipstelvpnvip';
 
 install_require()
 {
