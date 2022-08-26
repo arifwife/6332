@@ -3,9 +3,9 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
 db_host='139.162.153.145';
-db_user='lipstel_vip';
-db_pass='lipstel_mamun';
-db_name='lipstel_vip';
+db_user='lipstelvpnvip';
+db_pass='lipstelvpnvip';
+db_name='lipstelvpnvip';
 
 install_require()
 {
